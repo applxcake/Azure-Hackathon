@@ -57,3 +57,6 @@ Thumbs.db
 *.gif
 *.csv
 confusion_matrix.png
+
+# Dataset files
+traffic_signs_processed.zip
