@@ -1,0 +1,11 @@
+azure-cognitiveservices-vision-customvision>=3.0.0
+opencv-python>=4.5.0
+numpy>=1.19.0
+pandas>=1.2.0
+matplotlib>=3.3.0
+pillow>=8.0.0
+python-dotenv>=0.15.0
+azure-functions>=1.10.0
+scikit-learn>=0.24.0
+tqdm>=4.50.0
+jupyter>=1.0.0
